@@ -1,9 +1,0 @@
-{
-  "id" : "443390abf2444ebb8f351eeb4f0546e2",
-  "name" : "Bettername",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4OTc1MTMzNDY4OCwKICAicHJvZmlsZUlkIiA6ICI0NDMzOTBhYmYyNDQ0ZWJiOGYzNTFlZWI0ZjA1NDZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZXR0ZXJuYW1lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiOWRlNmVmOWU2YzhhZWNlYThmYmEzNTE2ZDViODI0N2I1ZWJjMWY4YjdiOWZmNzExYjA5ODRlYWVmZWY3ZWMiCiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
